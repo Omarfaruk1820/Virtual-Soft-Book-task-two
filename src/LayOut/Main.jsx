@@ -4,6 +4,7 @@ import NavigationBar from "../Components/Navigation/NavigationBar";
 import Banner from "../Components/Banner/Banner";
 import Footer from "../Components/Footer/Footer";
 import Product from "../Components/Product";
+import Shop from "../Components/Shop/Shop";
 
 
 
@@ -17,6 +18,7 @@ const Main = () => {
             </div>
             <div className='max-w-[1400px] mx-auto'>
             <Product></Product>
+            <Shop></Shop>
             </div>
             <Outlet></Outlet>
             <Footer></Footer>

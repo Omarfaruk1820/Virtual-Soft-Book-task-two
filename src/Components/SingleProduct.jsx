@@ -1,14 +1,9 @@
-import { TbCurrencyTaka } from "react-icons/tb";
+
 
 const SingleProduct = ({product}) => {
-    const {id,modelName,previousPrice,nowPrice,img}=product;
+    const {modelName,previousPrice,nowPrice,img}=product;
     return (
-      
-
-    
-   
-  
-  <div className="card border  shadow-xl">
+      <div className="card border  shadow-xl">
     <div className=" border  ">
   <div className=" place-items-end">
   <span className="indicator-item badge badge-primary">new</span>

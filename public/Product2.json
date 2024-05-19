@@ -1,28 +1,63 @@
 [
     {
-        "id": 7,
-        "modelName": "singer_rice_cook_srcdb2800ammo-pro_double_pot",
+        "id": "1",
+        "productTile": "singer_rice_cook_srcdb2800ammo-pro_double_pot",
         "previousPrice": 700,
         "nowPrice": 650,
         "img": "https://i.ibb.co/gZjTgBK/singer-rice-cook-srcdb2800ammo-pro-double-pot.jpg"
     },
     {
-        "id": 8,
-        "modelName": "singer_top_loading_washing_machine_10.0_kg_1",
+        "id": "2",
+        "productTile": "singer_top_loading_washing_machine_10.0_kg_1",
         "previousPrice": 1400,
         "nowPrice": 1300,
         "img": "https://i.ibb.co/W6CbFc5/singer-top-loading-washing-machine-10-0-kg-1.jpg"
     },
     {
-        "id": 9,
-        "modelName": "mibro_a2_calling_smart_watch_sporty_looks_2atm",
+        "id": "3",
+        "productTile": "mibro_a2_calling_smart_watch_sporty_looks_2atm",
         "previousPrice": 1600,
         "nowPrice": 1500,
         "img": "https://i.ibb.co/T2Fp3LN/mibro-a2-calling-smart-watch-sporty-looks-2atm.jpg"
     },
     {
-        "id": 10,
-        "modelName": "SumsungFullHD",
+        "id": "4",
+        "productTile": "SumsungFullHD",
+        "previousPrice": 1050,
+        "nowPrice": 950,
+        "img": "https://i.ibb.co/7jGf2mx/sle32e3agotv-1.jpg"
+    },
+    {
+        "id": "5",
+        "productTile": "SumsungFullHD",
+        "previousPrice": 1050,
+        "nowPrice": 950,
+        "img": "https://i.ibb.co/7jGf2mx/sle32e3agotv-1.jpg"
+    },
+    {
+        "id": "7",
+        "productTile": "SumsungFullHD",
+        "previousPrice": 1050,
+        "nowPrice": 950,
+        "img": "https://i.ibb.co/7jGf2mx/sle32e3agotv-1.jpg"
+    },
+    {
+        "id": "8",
+        "productTile": "SumsungFullHD",
+        "previousPrice": 1050,
+        "nowPrice": 950,
+        "img": "https://i.ibb.co/7jGf2mx/sle32e3agotv-1.jpg"
+    },
+    {
+        "id": "9",
+        "productTile": "SumsungFullHD",
+        "previousPrice": 1050,
+        "nowPrice": 950,
+        "img": "https://i.ibb.co/7jGf2mx/sle32e3agotv-1.jpg"
+    },
+    {
+        "id": "10",
+        "productTile": "SumsungFullHD",
         "previousPrice": 1050,
         "nowPrice": 950,
         "img": "https://i.ibb.co/7jGf2mx/sle32e3agotv-1.jpg"
