@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "modelName": "Apple-iPhone-14-Plus-Official",
+        "previousPrice": 1000,
+        "nowPrice": 900,
+        "img": "https://i.ibb.co/KmKMDXv/Apple-i-Phone-14-Plus-Official-Image-500x500.png"
+    },
+    {
+        "id": 2,
+        "modelName": "Infinix-Zero-6-Pro-Official",
+        "previousPrice": 1200,
+        "nowPrice": 1100,
+        "img": "https://i.ibb.co/pxkDKvh/Infinix-Zero-6-Pro-Official-image-500x500.jpg"
+    },
+    {
+        "id": 3,
+        "modelName": "ftds185-bg_2",
+        "previousPrice": 800,
+        "nowPrice": 750,
+        "img": "https://i.ibb.co/kSWBk7j/ftds185-bg-2.jpg"
+    },
+    {
+        "id": 4,
+        "modelName": "ftds230-bg-open",
+        "previousPrice": 950,
+        "nowPrice": 850,
+        "img": "https://i.ibb.co/WFybY4t/ftds230-bg-open.jpg"
+    },
+    {
+        "id": 5,
+        "modelName": "haylou_watch_2_pro",
+        "previousPrice": 1100,
+        "nowPrice": 1000,
+        "img": "https://i.ibb.co/vHrwPkg/haylou-watch-2-pro-smart-watch.jpg"
+    },
+    {
+        "id": 6,
+        "modelName": "Vision Bender V24",
+        "previousPrice": 1300,
+        "nowPrice": 1200,
+        "img": "https://i.ibb.co/vVqmhD9/picture1-1.jpg"
+    }
+   
+  
+]
+
+    
