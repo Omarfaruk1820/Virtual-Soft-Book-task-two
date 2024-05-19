@@ -2,50 +2,50 @@
     {
         "id":"1",
         "stock":"in Stock",
-        "productTitle":"",
+        "productTitle":"Bangladesh World Cup 2023 Team Jersey ",
         "priviusPrice":"900",
         "CurrentPrice":"800",
-        "productImg":""
+        "img":"https://i.ibb.co/j6gfPg0/f1.jpg"
     },
     {
         "id":"2",
         "stock":"in Stock",
-        "productTitle":"",
-        "priviusPrice":"900",
-        "CurrentPrice":"800",
-        "productImg":""
+        "productTitle":"Arsenal Mesh Cotton Half Sleeve",
+        "priviusPrice":"1200",
+        "CurrentPrice":"1100",
+        "img":"https://i.ibb.co/LdVJWB4/f2.jpg"
     },
     {
         "id":"3",
         "stock":"in Stock",
-        "productTitle":"",
-        "priviusPrice":"900",
-        "CurrentPrice":"800",
-        "productImg":""
+        "productTitle":"Barcelona Mesh Cotton Half Sleeve",
+        "priviusPrice":"600",
+        "CurrentPrice":"500",
+        "img":"https://i.ibb.co/GncJQxr/f3.jpg"
     },
     {
         "id":"4",
         "stock":"in Stock",
-        "productTitle":"",
-        "priviusPrice":"900",
-        "CurrentPrice":"800",
-        "productImg":""
+        "productTitle":"Liverpool Mesh Cotton Half Sleeve",
+        "priviusPrice":"800",
+        "CurrentPrice":"600",
+        "img":"https://i.ibb.co/G7Rny9f/f6.jpg"
     },
     {
         "id":"5",
         "stock":"in Stock",
-        "productTitle":"",
-        "priviusPrice":"900",
-        "CurrentPrice":"800",
-        "productImg":""
+        "productTitle":"Liverpool Mesh Cotton Half Sleeve",
+        "priviusPrice":"500",
+        "CurrentPrice":"350",
+        "img":"https://i.ibb.co/cYdVwbP/n6.jpg"
     },
     {
         "id":"6",
         "stock":"in Stock",
-        "productTitle":"",
-        "priviusPrice":"900",
-        "CurrentPrice":"800",
-        "productImg":""
+        "productTitle":"Liverpool Mesh Cotton Half Sleeve",
+        "priviusPrice":"1000",
+        "CurrentPrice":"700",
+        "img":"https://i.ibb.co/qNk6Zyg/n2.jpg"
     }
     
 ]

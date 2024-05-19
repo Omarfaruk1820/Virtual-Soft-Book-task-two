@@ -5,6 +5,8 @@ import Banner from "../Components/Banner/Banner";
 import Footer from "../Components/Footer/Footer";
 import Product from "../Components/Product";
 import Shop from "../Components/Shop/Shop";
+import Trending from "../Components/Trending/Trending";
+import Propular from "../Components/Propular/Propular";
 
 
 
@@ -19,6 +21,8 @@ const Main = () => {
             <div className='max-w-[1400px] mx-auto'>
             <Product></Product>
             <Shop></Shop>
+            <Trending></Trending>
+            <Propular></Propular>
             </div>
             <Outlet></Outlet>
             <Footer></Footer>
