@@ -9,6 +9,7 @@ const NavigationBar = () => {
    <Link to='/home'>Home</Link>
     <Link><a>Shops</a></Link>
     <Link><a>Categories</a></Link>
+    <Link to='/contact'>Contact</Link>
     </>
     return (
     <div className="navbar bg-base-50  shadow-lg mt-2">

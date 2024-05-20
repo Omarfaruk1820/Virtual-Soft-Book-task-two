@@ -1,6 +1,7 @@
 
 import { FaUser } from "react-icons/fa6";
 import { MdOutlineProductionQuantityLimits } from "react-icons/md";
+import { Link } from "react-router-dom";
 
 const Header = () => {
  
@@ -19,10 +20,10 @@ const Header = () => {
        <h1 className='text-3xl font-bold mr-20'> <MdOutlineProductionQuantityLimits /></h1>
         <div className="dropdown dropdown-end mr-20">
         <div className='flex'>
-        <button className="btn">
+       <Link to='signIn'> <button className="btn">
             <h1 className='text-xl'><FaUser /></h1>
             <span className='text-xl'>Sign IN</span>
-        </button>
+        </button></Link>
         </div>
            </div>
 
