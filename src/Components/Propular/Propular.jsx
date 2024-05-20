@@ -11,7 +11,7 @@ const Propular = () => {
     },[])
     return (
         <div className='mt-10'>
-           <h1 className="text-3xl font-semibold">Propular Product:</h1>
+           <h1 className="text-3xl font-semibold">Propular Products:</h1>
            <div className="grid md:grid-cols-6 grid-cols-2 gap-5">
             {
                 propulars.map(propular=><SignlePropular key={propular.id} propular={propular}></SignlePropular>)

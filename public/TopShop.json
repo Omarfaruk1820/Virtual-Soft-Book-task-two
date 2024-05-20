@@ -2,39 +2,46 @@
     
         {
             "id":"1",
-            "ShopTitle":"",
-            "Rating":"",
-           "ProductImg":""
+            "ShopTitle":"Times International For Big Bang COD",
+            "Rating":"Delivery in 1-10 Days",
+            "location":"Hazaribag, Dhaka, Dhaka",
+           "ProductImg":"https://i.ibb.co/B2QxFTX/e6d5399f-5b3c-4e16-92d9-47e9c228508b.png"
         },
         {
             "id":"2",
-            "ShopTitle":"",
-            "Rating":"",
-           "ProductImg":""
+            "ShopTitle":"Export Fashion House Bd For Big Bang COD",
+            "Rating":"Delivery in 1-4 Days",
+           "ProductImg":"https://i.ibb.co/qdG881f/6988ca47-83e1-404a-9fbe-28391b54c15e.jpg",
+           "location":"Hazaribag, Dhaka, Dhaka"
         },
-        {
-            "id":"3",
-            "ShopTitle":"",
-            "Rating":"",
-           "ProductImg":""
-        },
+       
         {
             "id":"4",
-            "ShopTitle":"",
-            "Rating":"",
-           "ProductImg":""
+            "ShopTitle":"Max Medi Enterprise For Big Bang COD",
+            "Rating":"Delivery in 1-3 Days",
+           "ProductImg":"https://i.ibb.co/Cwhbyhp/20eb3758-ba2e-4be8-9dff-ce3b8b7c8232.png",
+           "location":"Bangshal, Dhaka, Dhaka"
         },
         {
             "id":"5",
-            "ShopTitle":"",
-            "Rating":"",
-           "ProductImg":""
+            "ShopTitle":"Unilever Bangladesh For Big Bang COD",
+            "Rating":"Delivery in 1-8 Days",
+           "ProductImg":"https://i.ibb.co/k4NKpGx/1c948f8b-efde-4449-ad32-8f01201b5b19.png",
+           "location":"Savar, Dhaka, Dhaka"
         },
         {
             "id":"6",
-            "ShopTitle":"",
-            "Rating":"",
-           "ProductImg":""
+            "ShopTitle":"Nova Enterprise For Big Bang COD",
+            "Rating":"Delivery in 1-6 Days",
+            "location":"Saver,Dhaka,Bangladesh",
+           "ProductImg":"https://i.ibb.co/SB4MRZ1/d2cd32ae-140b-4f9f-998a-c11608841ce1.png"
+        },
+        {
+            "id":"7",
+            "ShopTitle":"Mid Cost For Big Bang COD",
+            "Rating":"Delivery in 1-4 Days",
+            "location":"Hazaribag, Dhaka, Dhaka",
+           "ProductImg":"https://i.ibb.co/dgNBWRm/04a7bd16-af89-4cfd-9c89-bbc956205ce9.png"
         }
     
 ]

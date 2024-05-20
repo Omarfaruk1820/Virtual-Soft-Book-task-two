@@ -12,9 +12,9 @@ const Trending = () => {
     return (
         <div className='mt-5'>
           
-           <div className='card h-[480px] w-[1400px]  shadow-2xl'>
+           <div className='card md:h-[480px] md:w-[1400px]  shadow-2xl'>
            <h1 className='text-3xl font-semibold'>Trending Now:</h1>
-           <div className=' mx-auto grid md:grid-cols-6 mt-5 grid-cols-2 gap-5 w-[1350px]'>
+           <div className='  grid md:grid-cols-6  grid-cols-2  md:w-[1350px] mt-5 mx-auto gap-5'>
             {
                 trends.map(trend=><SingleTrend key={trend.id} trend={trend}></SingleTrend>)
             }

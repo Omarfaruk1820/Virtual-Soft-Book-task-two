@@ -7,6 +7,7 @@ import Product from "../Components/Product";
 import Shop from "../Components/Shop/Shop";
 import Trending from "../Components/Trending/Trending";
 import Propular from "../Components/Propular/Propular";
+import TopShop from "../Components/TopShop/TopShop";
 
 
 
@@ -23,6 +24,7 @@ const Main = () => {
             <Shop></Shop>
             <Trending></Trending>
             <Propular></Propular>
+            <TopShop></TopShop>
             </div>
             <Outlet></Outlet>
             <Footer></Footer>
