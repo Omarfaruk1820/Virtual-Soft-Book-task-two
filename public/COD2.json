@@ -1,26 +1,30 @@
 [
     {
         "id":"1",
-        "ShopTitle":"",
-        "Rating":"",
-       "ProductImg":""
+        "ShopTitle":"Rangs Electronics Official Store For Big Bang COD",
+        "Rating":"Delivery in 1-4 Days",
+        "location":"Jatrabari, Dhaka, Dhaka",
+       "ProductImg":"https://i.ibb.co/N3vwhMX/R-1.png"
     },
     {
         "id":"2",
-        "ShopTitle":"",
-        "Rating":"",
-       "ProductImg":""
+        "ShopTitle":"Walton Hi-Tech Industries For Big Bang COD",
+        "Rating":"Delivery in 1-4 Days",
+        "location":"Jatrabari, Dhaka, Dhaka",
+       "ProductImg":"https://i.ibb.co/sqpZJDL/R-1.jpg"
     },
     {
         "id":"3",
-        "ShopTitle":"",
-        "Rating":"",
-       "ProductImg":""
+        "ShopTitle":"Artisan Outfitters Ltd. For Big Bang COD",
+        "Rating":"Delivery in 1-4 Days",
+        "location":"Jatrabari, Dhaka, Dhaka",
+       "ProductImg":"https://i.ibb.co/HFpkVKf/343f6be0-356c-47c2-8b0b-86280d323087.png"
     },
     {
         "id":"4",
-        "ShopTitle":"",
-        "Rating":"",
-       "ProductImg":""
+        "ShopTitle":"E-Waste BD For Big Bang COD",
+        "Rating":"Delivery in 1-4 Days",
+        "location":"Jatrabari, Dhaka, Dhaka",
+       "ProductImg":"https://i.ibb.co/hLGNrgn/ad929a2b-5eb1-4fae-8dce-22c6cc5e08c6-1.png"
     }
 ]

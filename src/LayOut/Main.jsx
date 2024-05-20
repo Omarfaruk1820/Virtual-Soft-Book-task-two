@@ -8,6 +8,9 @@ import Shop from "../Components/Shop/Shop";
 import Trending from "../Components/Trending/Trending";
 import Propular from "../Components/Propular/Propular";
 import TopShop from "../Components/TopShop/TopShop";
+import CashOnDelivery from "../Components/CashOnDelivery/CashOnDelivery";
+import Express from "../Components/Express/Express";
+import NewProduct from "../Components/NewProduct/NewProduct";
 
 
 
@@ -20,11 +23,14 @@ const Main = () => {
                 <Banner></Banner>
             </div>
             <div className='max-w-[1400px] mx-auto'>
-            <Product></Product>
-            <Shop></Shop>
-            <Trending></Trending>
-            <Propular></Propular>
-            <TopShop></TopShop>
+                <Product></Product>
+                <Shop></Shop>
+                <Trending></Trending>
+                <Propular></Propular>
+                <TopShop></TopShop>
+                <CashOnDelivery></CashOnDelivery>
+                <Express></Express>
+                <NewProduct></NewProduct>
             </div>
             <Outlet></Outlet>
             <Footer></Footer>

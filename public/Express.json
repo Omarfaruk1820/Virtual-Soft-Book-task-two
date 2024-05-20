@@ -1,26 +1,53 @@
 [
     {
         "id":"1",
-        "ShopTitle":"",
-        "Rating":"",
-       "ProductImg":""
+        "ShopTitle":"Smart kitchen Express Store For Big Bang COD",
+        "Rating":"Delivery in 1-1 Days",
+        "location":"Dhanmondi, Dhaka, Dhaka",
+       "ProductImg":"https://i.ibb.co/v4YqzVn/6eb112b5-9301-4e19-b740-54c231ef628a.png"
+
     },
     {
         "id":"2",
-        "ShopTitle":"",
-        "Rating":"",
-       "ProductImg":""
+        "ShopTitle":"eCollection Express Store For Big Bang COD",
+        "location":"Savar, Dhaka, Dhaka",
+        "Rating":"Delivery in 1-1 Days",
+       "ProductImg":"https://i.ibb.co/QpYbMc7/3193be85-9399-426e-a229-1f8c37a11199.jpg"
     },
     {
         "id":"3",
-        "ShopTitle":"",
-        "Rating":"",
-       "ProductImg":""
+        "ShopTitle":"SB Trading Express Store For Big Bang COD",
+        "Rating":"Delivery in 1-1 Days",
+        "location":"Khilgaon, Dhaka, Dhaka",
+       "ProductImg":"https://i.ibb.co/mH9N9Q3/042e7756-9703-440e-a3ef-73a222ddbce3.png"
     },
     {
         "id":"4",
-        "ShopTitle":"",
-        "Rating":"",
-       "ProductImg":""
+        "ShopTitle":"House Of Trading Express Store For Big Bang COD",
+        "Rating":"Delivery in 1-1 Days",
+        "location":"New Market, Dhaka, Dhaka",
+       "ProductImg":"https://i.ibb.co/k4NKpGx/1c948f8b-efde-4449-ad32-8f01201b5b19.png"
+    },
+    {
+        "id":"5",
+        "ShopTitle":"eCollection Express Store For Big Bang COD",
+        "location":"Savar, Dhaka, Dhaka",
+        "Rating":"Delivery in 1-1 Days",
+       "ProductImg":"https://i.ibb.co/QpYbMc7/3193be85-9399-426e-a229-1f8c37a11199.jpg"
+    },
+    {
+        "id":"6",
+        "ShopTitle":"House Of Trading Express Store For Big Bang COD",
+        "Rating":"Delivery in 1-1 Days",
+        "location":"New Market, Dhaka, Dhaka",
+       "ProductImg":"https://i.ibb.co/k4NKpGx/1c948f8b-efde-4449-ad32-8f01201b5b19.png"
+    },
+    {
+        "id":"7",
+        "ShopTitle":"Smart kitchen Express Store For Big Bang COD",
+        "Rating":"Delivery in 1-1 Days",
+        "location":"Dhanmondi, Dhaka, Dhaka",
+       "ProductImg":"https://i.ibb.co/v4YqzVn/6eb112b5-9301-4e19-b740-54c231ef628a.png"
+
     }
 ]

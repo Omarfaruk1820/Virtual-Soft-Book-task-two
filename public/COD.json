@@ -1,33 +1,32 @@
 [
     {
         "id":"1",
-        "ShopTitle":"",
-        "Rating":"",
-       "ProductImg":""
+        "ShopTitle":"Rangs Electronics",
+        "Rating":"Delivery in 1-4 Days",
+        "location":"Jatrabari, Dhaka, Dhaka",
+       "ProductImg":"https://i.ibb.co/vks1qVj/R.jpg"
     },
     {
         "id":"2",
-        "ShopTitle":"",
-        "Rating":"",
-       "ProductImg":""
+        "ShopTitle":"Walton Hi-Tech",
+        "Rating":"Delivery in 1-4 Days",
+        "location":"Jatrabari, Dhaka, Dhaka",
+       "ProductImg":"https://i.ibb.co/sqpZJDL/R-1.jpg"
     },
     {
         "id":"3",
-        "ShopTitle":"",
-        "Rating":"",
-       "ProductImg":""
+        "ShopTitle":"Artisan Outfitters",
+        "Rating":"Delivery in 1-4 Days",
+        "location":"Jatrabari, Dhaka, Dhaka",
+       "ProductImg":"https://i.ibb.co/N3vwhMX/R-1.png"
     },
     {
         "id":"4",
-        "ShopTitle":"",
-        "Rating":"",
-       "ProductImg":""
-    },
-    {
-        "id":"5",
-        "ShopTitle":"",
-        "Rating":"",
-       "ProductImg":""
+        "ShopTitle":"E-Waste BD",
+        "Rating":"Delivery in 1-4 Days",
+        "location":"Jatrabari, Dhaka, Dhaka",
+       "ProductImg":"https://i.ibb.co/qxWxgWy/R.png"
     }
+    
     
 ]

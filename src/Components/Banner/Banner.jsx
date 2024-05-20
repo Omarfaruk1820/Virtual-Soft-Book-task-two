@@ -46,10 +46,12 @@ const Banner = () => {
 
             <div className=' border col-span-1 p-5 bg-gray-100'>
                 <h1 className="text-3xl text-center font-semibold ">Upcoming Campaigns</h1>
+     
                 <Marquee>
                 1. NEXTZEN LIMITED 2. DATASOFT SYSTEMS BANGLADESH LIMITED 3. BJIT LIMITED 4. ENOSIS SOLUTIONS KAZ SOFTWARE
                 5. CEFALO BANGLADESH LTDCEFALO BANGLADESH LTD 5. CEFALO BANGLADESH LTD 6. TIGERIT BANGLADESH LTD.
                 </Marquee>
+
                 <div>
                     <h1 className='text-3xl text-center font-semibold mt-20'>OUR HAPPY CLIENT</h1>
                 <Marquee className=''>
